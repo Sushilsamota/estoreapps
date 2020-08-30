@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "estoreapps"
+    }
+  },
+  "defaultProject": "estoreapps",
+  "cli": {
+    "analytics": false
+  }
 }
